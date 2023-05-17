@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="202820e4-49fb-4e5b-98d5-08cab4edaf02" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cardealership/Dealership.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cardealership/Dealership.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cardealership/DealershipFileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cardealership/DealershipFileManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cardealership/UserInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cardealership/UserInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cardealership/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cardealership/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -64,5 +63,8 @@
       <updated>1684339833513</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
